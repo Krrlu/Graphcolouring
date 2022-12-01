@@ -27,4 +27,4 @@ $$ ...$$
 $$v_{i} \ c_{i}$$
 Where $v$ is a vertex and $c$ is the corresponding colour.
 
-If no solution exists, the output file will contain `No Solution`.
+If no solution exists, `No Solution` will be written to the output file.
